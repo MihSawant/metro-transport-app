@@ -1,0 +1,11 @@
+server:
+  port: 8082
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8061/eureka/
+
+  zipkin:
+    tracing:
+      endpoint: http://zipkin:9411/api/v2/spans

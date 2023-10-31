@@ -7,6 +7,24 @@
     <groupId>tech.foxlo</groupId>
     <artifactId>metro-transport-app</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <developers>
+        <developer>
+            <name>Mihir Sawant</name>
+            <id>48</id>
+        </developer>
+        <developer>
+            <name>Yash Chowdhari</name>
+            <id>10</id>
+        </developer>
+        <developer>
+            <name>Suresh Chaudhary</name>
+            <id>7</id>
+        </developer>
+        <developer>
+            <name>Shayan Zaidi</name>
+            <id>66</id>
+        </developer>
+    </developers>
 
     <packaging>pom</packaging>
     <modules>
